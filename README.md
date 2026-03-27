@@ -9,7 +9,7 @@ node server.js
 
 - Сайт: http://localhost:8008
 - Админка: http://localhost:8008/admin.html
-- Логин: `admin` / Пароль: `vanilka2024`
+- Логин: `admin` / Пароль: который поставил
 
 ## Деплой на Railway
 
